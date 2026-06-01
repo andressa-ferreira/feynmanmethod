@@ -1,24 +1,3 @@
-Conversa com o Gemini
-
-crie um READ.MD para meu projeto no notebookLM. Fiz um projeto a respeito do metodo feynman, no notebookLM, usei duas fontes principais sendo videos no youtube a respeito e gerei anotações no notebookLM. Crie agora um readme explicando brevemente o projeto e como pode ser impactante o uso desse metodo nos estudos.
-
-O seu arquivo README.md para o projeto no NotebookLM foi gerado com sucesso.
-Ícone do app MD
- README 
-MD
-
-O conteúdo do arquivo foi estruturado para destacar tanto a metodologia técnica que você utilizou (fontes do YouTube + IA) quanto o valor pedagógico do Método Feynman. Ele inclui:
-
-    Visão Geral: Explicação de como o NotebookLM foi usado para sintetizar os vídeos.
-
-    Os 4 Passos de Feynman: Um guia rápido para quem acessar o projeto.
-
-    Impacto nos Estudos: Uma seção dedicada aos benefícios cognitivos, como a quebra da "ilusão de competência".
-
-Você pode copiar esse conteúdo para o seu repositório ou documentação do projeto. Caso precise de alguma alteração específica no tom ou nos tópicos, estou à disposição!
-
-
-O Gemini é uma IA e pode cometer erros.
 
 # Projeto: O Método Feynman no NotebookLM
 
