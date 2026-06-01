@@ -36,7 +36,4 @@ Dentro do NotebookLM, você encontrará as fontes originais (transcrições de v
 * "Resuma as principais analogias encontradas nos vídeos sobre o método."
 
 ---
-*Desenvolvido como um guia prático para transformar informação em conhecimento real.*
-
-README.md
-Exibindo README.md.
+https://notebooklm.google.com/notebook/1c7d8a70-25b5-401a-a02f-acbf52fe437a
